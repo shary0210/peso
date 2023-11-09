@@ -1,0 +1,17 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(https://a-static.besthdwallpaper.com/colorful-planets-wallpaper-2800x2100-80834_28.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    color: white;
+}
+
+nav
+{
+ padding: 0px;
+    color: white;
+}
